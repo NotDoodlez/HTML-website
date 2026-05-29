@@ -7,3 +7,6 @@ Also there is no css file as this is a simple HTML page. This was made using VS 
 The website looks like this:
 <img width="1114" height="1040" alt="image" src="https://github.com/user-attachments/assets/dde585dc-37c8-42e1-a531-23febd641d6f" />
 To contribute to this project, fork the project and when you're done submit a pull request so I can look into it and if I feel the changes are appropriate, ill be sure to accept the request.
+
+
+*notice*:- There was no ai used in the making of this website. All found instances of AI are purely accidental.
