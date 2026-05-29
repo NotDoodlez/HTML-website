@@ -1,4 +1,6 @@
-**One Piece Fan Wiki**
+**One Piece Fan Wiki**   
+
+
 -This is a fan-made wiki made by me. (._.) This is also my first website/HTML page I've ever made. I have deployed this website to github pages so anybody can access it.
 There isn't any use for this as the only information i've provided is of the strawhats and most of them is based on my personal opinion so please do not use it as facts.
 Also there is no css file as this is a simple HTML page. This was made using VS code editor.
